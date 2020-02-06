@@ -11,5 +11,8 @@ public class GitHubCollab {
     public static void ImTheLeader(){
         System.out.println("Avery Watkins!!");
     }
+    public static boolean brianWasHere(){
+        return false;
+    }
     
 }
