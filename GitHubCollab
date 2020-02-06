@@ -1,0 +1,15 @@
+
+package github;
+
+public class GitHubCollab {
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        ImTheLeader();
+    }
+    
+    public static void ImTheLeader(){
+        System.out.println("Avery Watkins!!");
+    }
+    
+}
